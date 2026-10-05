@@ -29,9 +29,9 @@ The security architecture aligns with major national and international standards
 
 ## Project Documentation & Deliverables
 You can review the complete project files and assessments stored in the repository:
-*   **[Overall Security Program Document (`.docx`)](./docs/Overall_Security_Program.docx):** Core governance policy detailing leadership roles, asset management, data classification, and technical controls[cite: 1, 3].
-*   **[Audit & Risk Assessment Report (`.docx`)](./docs/Audit_and_Risk_Assessment.docx):** Security control checklists, threat/vulnerability scoring matrices, and prioritized remediation actions[cite: 2].
-*   **[Business Continuity Plan (`.docx`)](./docs/BCP_FOR_STELLAR_SCOPE_EMPORIUM.docx):** Business impact analysis (BIA), Maximum Tolerable Downtime (MTD) tables, and emergency procedures[cite: 4].
+*   **[Overall Security Program Document (`.docx`)](./Overall_Security_Program_.docx):** Core governance policy detailing leadership roles, asset management, data classification, and technical controls[cite: 1, 3].
+*   **[Audit & Risk Assessment Report (`.docx`)](./Stellar%20Scope%20Emporium%20-%20Audit.docx):** Security control checklists, threat/vulnerability scoring matrices, and prioritized remediation actions[cite: 2].
+*   **[Business Continuity Plan (`.docx`)](./BCP_FOR_STELLAR_SCOPE_EMPORIUM.docx):** Business impact analysis (BIA), Maximum Tolerable Downtime (MTD) tables, and emergency procedures[cite: 4].
 
 ---
 
